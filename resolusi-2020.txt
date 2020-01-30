@@ -3,3 +3,4 @@ RESOLUSI TAHUN 2020
 - Menyelesaikan project-project yang belum selesai
 - membuat website sendiri 
 - ingin masuk ke hacktive school
+- membuat sistem gaji karyawan
